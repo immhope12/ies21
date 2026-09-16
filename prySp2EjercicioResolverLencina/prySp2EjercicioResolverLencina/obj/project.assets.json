@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\cosas\\facu\\programacion\\ies21\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina.csproj",
-      "projectName": "prySp2EjercicioResolverLencina",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\cosas\\facu\\programacion\\ies21\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\cosas\\facu\\programacion\\ies21\\ies21\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverPerez.csproj",
+      "projectName": "prySp2EjercicioResolverPerez",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\cosas\\facu\\programacion\\ies21\\ies21\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverPerez.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\cosas\\facu\\programacion\\ies21\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\cosas\\facu\\programacion\\ies21\\ies21\\prySp2EjercicioResolverLencina\\prySp2EjercicioResolverLencina\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
