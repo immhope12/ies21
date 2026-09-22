@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.frm_gestion_repuestos.resources
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\bin\Debug\net10.0-windows\pryPerezSp3.exe
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\bin\Debug\net10.0-windows\pryPerezSp3.deps.json
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\bin\Debug\net10.0-windows\pryPerezSp3.runtimeconfig.json
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\bin\Debug\net10.0-windows\pryPerezSp3.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\bin\Debug\net10.0-windows\pryPerezSp3.pdb
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\refint\pryPerezSp3.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.pdb
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerezSp3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\ref\pryPerezSp3.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\frmRepuestos\pryPerezSp3\obj\Debug\net10.0-windows\pryPerez.4D323C52.Up2Date
