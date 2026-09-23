@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.frmGestionRepuestos.resources
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\bin\Debug\net10.0-windows\pryPerezAgustinSp2.exe
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\bin\Debug\net10.0-windows\pryPerezAgustinSp2.deps.json
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\bin\Debug\net10.0-windows\pryPerezAgustinSp2.runtimeconfig.json
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\bin\Debug\net10.0-windows\pryPerezAgustinSp2.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\bin\Debug\net10.0-windows\pryPerezAgustinSp2.pdb
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\refint\pryPerezAgustinSp2.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.pdb
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerezAgustinSp2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\ref\pryPerezAgustinSp2.dll
+C:\Users\Administrator\Desktop\cosas\facu\programacion\ies21\pryPerezAgustinSp2\pryPerezAgustinSp2\obj\Debug\net10.0-windows\pryPerez.6E5DEF24.Up2Date
